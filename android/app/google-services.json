@@ -7,9 +7,9 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:1061091442727:android:6ba5325ba3c0a0db2c4e02",
+        "mobilesdk_app_id": "1:1061091442727:android:b0a0224414dec1a82c4e02",
         "android_client_info": {
-          "package_name": "com.example.dynamicLinks"
+          "package_name": "com.example.dynamic_links"
         }
       },
       "oauth_client": [
